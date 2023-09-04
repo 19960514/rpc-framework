@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1a333640-e94d-4627-a19e-e4399b7275ba" name="Default Changelist" comment="" />
+    <list default="true" id="1a333640-e94d-4627-a19e-e4399b7275ba" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -91,7 +93,7 @@
     <property name="project.structure.last.edited" value="Problems" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -274,6 +276,7 @@
       <workItem from="1693486411347" duration="3626000" />
       <workItem from="1693829324942" duration="39000" />
       <workItem from="1693829379221" duration="1643000" />
+      <workItem from="1693831417133" duration="181000" />
     </task>
     <task id="LOCAL-00001" summary="rpcDay2">
       <created>1693403263643</created>
@@ -296,7 +299,14 @@
       <option name="project" value="LOCAL" />
       <updated>1693831284112</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="rpcDay2111">
+      <created>1693831518290</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1693831518290</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -416,14 +426,18 @@
       <screen x="2560" y="0" width="1920" height="1040" />
     </state>
     <state x="3940" y="443" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1707.920/2560.0.1920.1040@2560.0.1920.1040" timestamp="1693488108244" />
-    <state x="2679" y="159" key="CommitChangelistDialog2" timestamp="1693831283088">
+    <state x="2679" y="159" key="CommitChangelistDialog2" timestamp="1693831517176">
       <screen x="2560" y="0" width="1920" height="1040" />
     </state>
-    <state x="2679" y="159" key="CommitChangelistDialog2/0.0.1707.920/2560.0.1920.1040@2560.0.1920.1040" timestamp="1693831283088" />
+    <state x="2679" y="159" key="CommitChangelistDialog2/0.0.1707.920/2560.0.1920.1040@2560.0.1920.1040" timestamp="1693831517176" />
     <state x="3300" y="275" key="FileChooserDialogImpl" timestamp="1693831482417">
       <screen x="2560" y="0" width="1920" height="1040" />
     </state>
     <state x="3300" y="275" key="FileChooserDialogImpl/0.0.1707.920/2560.0.1920.1040@2560.0.1920.1040" timestamp="1693831482417" />
+    <state x="3374" y="410" key="Github.ShareDialog" timestamp="1693831613051">
+      <screen x="2560" y="0" width="1920" height="1040" />
+    </state>
+    <state x="3374" y="410" key="Github.ShareDialog/0.0.1707.920/2560.0.1920.1040@2560.0.1920.1040" timestamp="1693831613051" />
     <state width="1877" height="255" key="GridCell.Tab.0.bottom" timestamp="1693490068104">
       <screen x="2560" y="0" width="1920" height="1040" />
     </state>
@@ -468,10 +482,10 @@
       <screen x="2560" y="0" width="1920" height="1040" />
     </state>
     <state x="3229" y="235" key="MultipleFileMergeDialog/0.0.1707.920/2560.0.1920.1040@2560.0.1920.1040" timestamp="1693481620455" />
-    <state x="3000" y="94" key="SettingsEditor" timestamp="1693831315497">
+    <state x="3000" y="94" key="SettingsEditor" timestamp="1693831598990">
       <screen x="2560" y="0" width="1920" height="1040" />
     </state>
-    <state x="3000" y="94" key="SettingsEditor/0.0.1707.920/2560.0.1920.1040@2560.0.1920.1040" timestamp="1693831315497" />
+    <state x="3000" y="94" key="SettingsEditor/0.0.1707.920/2560.0.1920.1040@2560.0.1920.1040" timestamp="1693831598990" />
     <state x="3112" y="253" key="Vcs.Push.Dialog.v2" timestamp="1693487361569">
       <screen x="2560" y="0" width="1920" height="1040" />
     </state>
